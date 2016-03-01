@@ -1,0 +1,12 @@
+rownames,MetricType,Value,Geog_ID,Product_ID,MetricType_Desc
+1,HX_L_Discount,0.02,5,1653,Large Discount
+10,PL_Unit_Sales_Feature_Only_Current,0.018,5,1653,PL Feature
+11,PL_Unit_Sales_Price_Reductions_Only_Current,0.014,5,1653,PL Price Reduction
+2,HX_S_Discount,0.011,5,1653,Small Discount
+3,HX_Unit_Sales_Display_Only_Current,0.123,5,1653,Display
+4,HX_Unit_Sales_Feature_Only_Current,0.11,5,1653,Feature
+5,HX_Unit_Sales_Price_Reductions_Only_Current,0.125,5,1653,Price Reductions
+6,Month,0.057,5,1653,Month
+7,Others_Unit_Sales_Display_Only_Current,0.018,5,1653,Competitor Display
+8,Others_Unit_Sales_Price_Reductions_Only_Current,0.054,5,1653,Competitor Price Reductions
+9,PL_Unit_Sales_Display_Only_Current,0.061,5,1653,PL Display
